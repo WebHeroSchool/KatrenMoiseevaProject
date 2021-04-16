@@ -1,13 +1,10 @@
-.title {
-  font-family: Roboto, ;
-}
-
 .wrapper {
   width: 80%;
   margin: auto;
 }
 
 .header {
+	font-family: Roboto;
   display: flex;
   justify-content: space-between;
 }
